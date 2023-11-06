@@ -43,7 +43,10 @@ const PageBellido = () => {
        {/* Esercizio 8 */}
 
       <BellidoButton/>
-      
+
+      <p>Quesito 8 : Per Splittare in 2 le commit , ho eliminato la commit precedente con "git reset HEAD~" e poi ho aggiunto con git add e commitato  le operazioni separatamente   
+</p>
+
     </div>;
 
     
