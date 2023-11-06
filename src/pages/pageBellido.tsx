@@ -7,6 +7,21 @@ const PageBellido = () => {
 
     <p>Quesito Esercizio 4 :Se la mia   branch dedicata è indietro di alcuni commit rispetto al branch "master" e voglio  portare le modifiche fatte su "master" sulla mia branch dedicata,
        posso utilizzare il comando git merge o git rebase, a seconda di come desidero unire le modifiche</p>
+    <p>
+      Alghe wakame 
+    </p>
+    <p>
+      Spaghetti di soia con pollo e verdure
+    </p>
+
+    <p>
+      Zuppa di anatra
+    </p>
+
+    <p>
+      Gelato al sesamo nero 
+    </p>
+    
     </div>;
   };
   
