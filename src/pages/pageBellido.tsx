@@ -7,6 +7,8 @@ const PageBellido = () => {
 
     <p>Quesito Esercizio 4 :Se la mia   branch dedicata è indietro di alcuni commit rispetto al branch "master" e voglio  portare le modifiche fatte su "master" sulla mia branch dedicata,
        posso utilizzare il comando git merge o git rebase, a seconda di come desidero unire le modifiche</p>
+    
+    {/* Esercizio 5 */}
     <p>
       Alghe wakame 
     </p>
@@ -23,9 +25,16 @@ const PageBellido = () => {
     </p>
     
     <p>Soluzione quesito 5 : Ho usato il commando git rebase -i Codice commit e nell'editor ho cambiato alcune cose , inviece che pick ho messo squash nelle commit che volevo unire </p>
+    
+    {/* Esercizio 6 */}
+  
+    <p> Lil uzi Vert </p>
+    <p>Adam Driver</p>
+    <p>Kaoru Mitoma</p>
     </div>;
 
     
+
   };
   
   export default PageBellido;
