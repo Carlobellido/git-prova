@@ -1,3 +1,4 @@
+import BellidoButton from "../components/bellido/BellidoButton";
 import Logo from "../components/bellido/logo";
 
 const PageBellido = () => {
@@ -39,7 +40,10 @@ const PageBellido = () => {
     <p> Quesito 7 , Posso correggerlo con i commando git commit –-amend</p>
 
    
-   
+       {/* Esercizio 8 */}
+
+      <BellidoButton/>
+      
     </div>;
 
     
