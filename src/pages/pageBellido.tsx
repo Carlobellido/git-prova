@@ -22,7 +22,10 @@ const PageBellido = () => {
       Gelato al sesamo nero 
     </p>
     
+    <p>Soluzione quesito 5 : Ho usato il commando git rebase -i Codice commit e nell'editor ho cambiato alcune cose , inviece che pick ho messo squash nelle commit che volevo unire </p>
     </div>;
+
+    
   };
   
   export default PageBellido;
