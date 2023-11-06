@@ -31,6 +31,7 @@ const PageBellido = () => {
     <p> Lil uzi Vert </p>
     <p>Adam Driver</p>
     <p>Kaoru Mitoma</p>
+    <p>Quesito esercizio 6 : Ho Fatto un reset current  branch to this commit con l'estensione Git Graph  , mi unisce tutte le modifiche e le commito in una sola commit </p>
     </div>;
 
     
