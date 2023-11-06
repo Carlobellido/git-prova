@@ -47,6 +47,10 @@ const PageBellido = () => {
       <p>Quesito 8 : Per Splittare in 2 le commit , ho eliminato la commit precedente con "git reset HEAD~" e poi ho aggiunto con git add e commitato  le operazioni separatamente   
 </p>
 
+       {/* Esercizio 9 */}
+
+      <p> Quesito 9 : Si può fare un reset hard per tornare indietro in una branch </p>
+
     </div>;
 
     
